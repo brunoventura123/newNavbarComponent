@@ -1,0 +1,19 @@
+{
+  "name": "newnavbarcomponent",
+  "version": "1.0.0",
+  "description": "navbarcomponent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunoventura123/newNavbarComponent.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunoventura123/newNavbarComponent/issues"
+  },
+  "homepage": "https://github.com/brunoventura123/newNavbarComponent#readme"
+}
